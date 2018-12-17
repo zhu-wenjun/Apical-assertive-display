@@ -1,6 +1,6 @@
 # Apical-assertive-display
 
-'''
+```
 diff --git a/arch/arm/boot/dts/nufront-tl7790-phone-test.dts b/arch/arm/boot/dts/nufront-tl7790-phone-test.dts
 index 9bc8c09..ba7bce7 100644
 --- a/arch/arm/boot/dts/nufront-tl7790-phone-test.dts
@@ -73,5 +73,4 @@ index 8adc024..e5bd097 100644
 @@ -1 +1,2 @@
 +#obj-$(CONFIG_NU7TL_DISPLAY)		+= n7tl-lcdc.o nu7tl_dsi.o tl7790_ad.o panel/
  obj-$(CONFIG_NU7TL_DISPLAY)		+= n7tl-lcdc.o nu7tl_dsi.o panel/
-
-'''
+```
